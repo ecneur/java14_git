@@ -1,0 +1,1 @@
+git --version là kiểm tra phiên bản
